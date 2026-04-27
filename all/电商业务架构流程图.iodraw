@@ -41,10 +41,10 @@
           <mxGeometry x="-240" y="190" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="370" width="830" height="80" as="geometry" />
+          <mxGeometry x="-840" y="370" width="830" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="370" width="50" height="80" as="geometry" />
+          <mxGeometry x="-840" y="370" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-16" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-780" y="380" width="70" height="60" as="geometry" />
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="VfUspNbqEq6ykS3ohrPO-20" value="数据备份" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-150" y="380" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-22" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="390" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
