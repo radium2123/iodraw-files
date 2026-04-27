@@ -142,6 +142,9 @@
         <mxCell id="VfUspNbqEq6ykS3ohrPO-22" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-780" y="450" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-23" value="Hadoop HDFS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="450" width="70" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
