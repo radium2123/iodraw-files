@@ -226,7 +226,7 @@
         <mxCell id="VfUspNbqEq6ykS3ohrPO-6" value="图表展示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-240" y="90" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfUspNbqEq6ykS3ohrPO-7" value="图表展示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-7" value="GET请求" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-360" y="90" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
