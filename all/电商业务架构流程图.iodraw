@@ -130,13 +130,13 @@
         <mxCell id="VfUspNbqEq6ykS3ohrPO-17" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-420" y="380" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfUspNbqEq6ykS3ohrPO-18" value="数据去重" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-18" value="数据事务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-332" y="380" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfUspNbqEq6ykS3ohrPO-19" value="数据去重" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-19" value="数据同步" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-240" y="380" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfUspNbqEq6ykS3ohrPO-20" value="数据去重" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-20" value="数据备份" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-150" y="380" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
