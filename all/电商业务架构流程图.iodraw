@@ -31,13 +31,13 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-10" value="&amp;nbsp;行为分析模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-600" y="190" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-11" value="微信网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-11" value="聚类分析模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-480" y="190" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-12" value="拼团网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-12" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-360" y="190" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-13" value="app网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-13" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-240" y="190" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="VfUspNbqEq6ykS3ohrPO-8" value="数据筛选" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-130" y="90" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-9" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="200" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
