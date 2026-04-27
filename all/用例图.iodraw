@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="用例图" id="traditional-usecase-diagram">
-    <mxGraphModel dx="230" dy="118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1740" pageHeight="1040" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1740" pageHeight="1040" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,8 +55,8 @@
         <mxCell id="41" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="11" target="14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2mP-6wnPOlyOLukUQyOP-49" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="101" y="557" width="54" height="26" as="geometry" />
+        <mxCell id="2mP-6wnPOlyOLukUQyOP-49" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="107" y="557" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2mP-6wnPOlyOLukUQyOP-50" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;查看数据分析&lt;/span&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="641" y="361" width="164" height="56" as="geometry" />
