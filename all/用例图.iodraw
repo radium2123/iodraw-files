@@ -98,6 +98,14 @@
             <mxPoint x="516" y="371" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2mP-6wnPOlyOLukUQyOP-60" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;日志列表管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="636" y="939" width="164" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="2mP-6wnPOlyOLukUQyOP-61" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="2mP-6wnPOlyOLukUQyOP-60" source="11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516" y="887" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
