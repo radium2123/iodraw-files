@@ -19,9 +19,6 @@
         <mxCell id="6" value="查看图书详情" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="636" y="280" width="164" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="490" width="206" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8" value="申请借书" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="636" y="412" width="164" height="56" as="geometry" />
         </mxCell>
@@ -31,7 +28,7 @@
         <mxCell id="10" value="查看借阅记录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="636" y="572" width="164" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="11" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;管理员端&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="782" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
@@ -82,8 +79,10 @@
         <mxCell id="27" value="" style="edgeStyle=none;endArrow=none;html=0;rounded=0;strokeWidth=1.1;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="25" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28" value="" style="edgeStyle=none;endArrow=none;html=0;rounded=0;strokeWidth=1.1;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="25" target="7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="28" value="" style="edgeStyle=none;endArrow=none;html=0;rounded=0;strokeWidth=1.1;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.9999999999998" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="29" value="" style="edgeStyle=none;endArrow=none;html=0;rounded=0;strokeWidth=1.1;strokeColor=#000000;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="25" target="11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,14 +105,20 @@
         <mxCell id="35" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="3" target="6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="36" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="7" target="8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="36" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516.0000000000002" y="520" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="37" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="7" target="9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="37" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516.0000000000002" y="520" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="38" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="7" target="10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="38" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516.0000000000002" y="520" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="39" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="11" target="12" edge="1">
           <mxGeometry relative="1" as="geometry" />
