@@ -104,7 +104,16 @@
           <mxGeometry x="-130" y="90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfUspNbqEq6ykS3ohrPO-9" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="-120" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-10" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="270" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-11" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="270" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-12" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="230" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
