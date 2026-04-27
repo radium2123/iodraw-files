@@ -74,7 +74,7 @@
             <mxPoint x="512" y="308" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mP-6wnPOlyOLukUQyOP-54" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;修改密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="2mP-6wnPOlyOLukUQyOP-54" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修改密码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="641" y="50" width="164" height="56" as="geometry" />
         </mxCell>
         <mxCell id="2mP-6wnPOlyOLukUQyOP-55" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;entryX=0;entryY=0.5;" edge="1" parent="1" target="2mP-6wnPOlyOLukUQyOP-54">
