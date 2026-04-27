@@ -202,7 +202,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-67" value="订单台账" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-80" y="585" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-68" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-10" width="840" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-70" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -217,8 +217,8 @@
         <mxCell id="VfUspNbqEq6ykS3ohrPO-3" value="HTML" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfUspNbqEq6ykS3ohrPO-4" value="CSS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-4" value="JavaScript" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-332" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
