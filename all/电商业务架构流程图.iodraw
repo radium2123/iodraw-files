@@ -16,7 +16,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-4" value="工作台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-610" y="90" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-5" value="GET请求" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-5" value="图表展示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-475" y="90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -222,6 +222,12 @@
         </mxCell>
         <mxCell id="VfUspNbqEq6ykS3ohrPO-5" value="CSS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-6" value="图表展示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="90" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-7" value="图表展示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="90" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
