@@ -10,7 +10,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;展示层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="80" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-3" value="HTTP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-3" value="数据大屏" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-730" y="90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-4" value="POST请求" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -221,7 +221,7 @@
           <mxGeometry x="-332" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfUspNbqEq6ykS3ohrPO-5" value="CSS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-322" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
