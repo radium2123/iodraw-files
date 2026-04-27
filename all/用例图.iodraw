@@ -73,7 +73,7 @@
         <mxCell id="24" value="查询借阅统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="940" y="708" width="164" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="读者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="25" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="110" y="481" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="26" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" parent="1" vertex="1">
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="48" value="&lt;&lt;include&gt;&gt;" style="edgeStyle=none;endArrow=open;html=0;rounded=0;dashed=1;strokeWidth=1.1;strokeColor=#000000;fontSize=10;fontStyle=2;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" parent="1" source="21" target="24" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2mP-6wnPOlyOLukUQyOP-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="108" y="557" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
