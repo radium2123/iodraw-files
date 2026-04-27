@@ -223,11 +223,14 @@
         <mxCell id="VfUspNbqEq6ykS3ohrPO-5" value="CSS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfUspNbqEq6ykS3ohrPO-6" value="图表展示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-6" value="POST请求" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-240" y="90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfUspNbqEq6ykS3ohrPO-7" value="GET请求" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-360" y="90" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfUspNbqEq6ykS3ohrPO-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22POST%E8%AF%B7%E6%B1%82%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeWidth%3D2%3BfontFamily%3DComic%20Sans%20MS%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-240%22%20y%3D%2290%22%20width%3D%2280%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="90" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
